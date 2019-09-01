@@ -1,0 +1,329 @@
+C:\Users\LucasPC\source\repos\SDM Assignment\SDM Assignment\bin\Debug\SDM Assignment.exe.config
+C:\Users\LucasPC\source\repos\SDM Assignment\SDM Assignment\bin\Debug\SDM Assignment.exe
+C:\Users\LucasPC\source\repos\SDM Assignment\SDM Assignment\bin\Debug\SDM Assignment.pdb
+C:\Users\LucasPC\source\repos\SDM Assignment\SDM Assignment\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\LucasPC\source\repos\SDM Assignment\SDM Assignment\bin\Debug\Google.Protobuf.dll
+C:\Users\LucasPC\source\repos\SDM Assignment\SDM Assignment\bin\Debug\MySql.Data.dll
+C:\Users\LucasPC\source\repos\SDM Assignment\SDM Assignment\bin\Debug\Google.Protobuf.xml
+C:\Users\LucasPC\source\repos\SDM Assignment\SDM Assignment\bin\Debug\MySql.Data.xml
+C:\Users\LucasPC\source\repos\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.fmcMainForm.resources
+C:\Users\LucasPC\source\repos\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ITManagerMainMenu.resources
+C:\Users\LucasPC\source\repos\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.LoginForm.resources
+C:\Users\LucasPC\source\repos\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.Properties.Resources.resources
+C:\Users\LucasPC\source\repos\SDM Assignment\SDM Assignment\obj\Debug\SDM Assignment.csproj.GenerateResource.cache
+C:\Users\LucasPC\source\repos\SDM Assignment\SDM Assignment\obj\Debug\SDM Assignment.csproj.CoreCompileInputs.cache
+C:\Users\LucasPC\source\repos\SDM Assignment\SDM Assignment\obj\Debug\SDM Assignment.csproj.CopyComplete
+C:\Users\LucasPC\source\repos\SDM Assignment\SDM Assignment\obj\Debug\SDM Assignment.exe
+C:\Users\LucasPC\source\repos\SDM Assignment\SDM Assignment\obj\Debug\SDM Assignment.pdb
+C:\Users\LucasPC\source\repos\SDM Assignment\SDM Assignment\bin\Debug\MaterialSkin.dll
+C:\Users\LucasPC\source\repos\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.FrontCounterMainMenu.resources
+C:\Users\LucasPC\source\repos\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.PatientRegisterForm.resources
+C:\Users\LucasPC\source\repos\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.SearchPatientForm.resources
+C:\Users\LucasPC\source\repos\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.SearchDoctorForm.resources
+C:\Users\LucasPC\source\repos\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.SearchMachineForm.resources
+C:\Users\LucasPC\source\repos\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.NewPatientRecord.resources
+C:\Users\LucasPC\source\repos\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.DoctorMainMenu.resources
+C:\Users\LucasPC\source\repos\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.PatientDetail.resources
+C:\Users\LucasPC\source\repos\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ViewPatientRecordForDoctor.resources
+C:\Users\LucasPC\source\repos\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ViewPatientRecordForFrontCounter.resources
+C:\Users\LucasPC\source\repos\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ViewDigitalImageDetailForDoctor.resources
+C:\Users\LucasPC\source\repos\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ViewPatientRecordDetailForDoctor.resources
+C:\Users\LucasPC\source\repos\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ViewPatientRecordDigitalImageForDoctor.resources
+C:\Users\LucasPC\source\repos\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ViewPatientRecordDetailForFrontCounter.resources
+C:\Users\LucasPC\source\repos\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ViewAppointmentByTimeForFrontCounter.resources
+C:\Users\LucasPC\source\repos\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ViewAppointmentByTimeForDoctor.resources
+C:\Users\LucasPC\source\repos\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.NewAppointmentFormForFrontCounter.resources
+C:\Users\LucasPC\source\repos\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.NewAppointmentFormForDoctor.resources
+C:\Users\LucasPC\source\repos\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ViewAppointmentDetailForDoctor.resources
+C:\Users\LucasPC\source\repos\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ViewAppointmentDetaiForFrontCounter.resources
+C:\Users\LucasPC\source\repos\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ViewMachineDetailForAdministrator.resources
+C:\Users\LucasPC\source\repos\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.NewMaintenanceForTechnician.resources
+C:\Users\LucasPC\source\repos\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.SearchFollowUpByMachineId.resources
+C:\Users\LucasPC\source\repos\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.SearchTechnician.resources
+C:\Users\LucasPC\source\repos\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ViewMachineTechnicianListForAdministrator.resources
+C:\Users\LucasPC\source\repos\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ViewMaintenanceListForAdministator.resources
+C:\Users\LucasPC\source\repos\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ViewMaintenanceListForTechnician.resources
+C:\Users\LucasPC\source\repos\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.MachineAssignTechnicianForAdministrator.resources
+C:\Users\LucasPC\source\repos\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.MachineUnassignTechnicianForAdministrator.resources
+C:\Users\LucasPC\source\repos\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.NewMachineForAdministrator.resources
+C:\Users\LucasPC\source\repos\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ViewAppointmentByTimeForAdministrator.resources
+C:\Users\LucasPC\source\repos\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ViewAppointmentDetailForAdministrator.resources
+C:\Users\LucasPC\source\repos\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ViewFollowUpMaintenanceForAdministrator.resources
+C:\Users\LucasPC\source\repos\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ViewPatientDetailForAdministrator.resources
+C:\Users\LucasPC\source\repos\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.viewPatientRecordForAdministrator.resources
+C:\Users\LucasPC\source\repos\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ViewPatientRecordDetailForAdministrator.resources
+C:\Users\LucasPC\source\repos\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.NewFollowUpMaintenanceForTechnician.resources
+C:\Users\LucasPC\source\repos\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.TechnicianMainMenu.resources
+C:\Users\LucasPC\source\repos\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ViewFollowUpMaintenanceForTechnician.resources
+C:\Users\LucasPC\source\repos\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ViewMachineDetailForTechnician.resources
+C:\Users\LucasPC\source\repos\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ViewAppointmentByTimeForTechnician.resources
+C:\Users\LucasPC\source\repos\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ViewAppointmentDetailForTechnician.resources
+C:\Users\LucasPC\source\repos\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.NewMachineScheduleBlockForTechnician.resources
+C:\Users\LucasPC\source\repos\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ViewMachineScheduleBlockForTechnician.resources
+C:\Users\LucasPC\source\repos\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.PaymentForFrontCounter.resources
+C:\Users\LucasPC\source\repos\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ResetPassword.resources
+C:\Users\LucasPC\source\repos\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.SecretQuestion.resources
+C:\Users\Wong Jien Jieh\Downloads\SDM Assignment 1.07\SDM Assignment\SDM Assignment\bin\Debug\SDM Assignment.exe.config
+C:\Users\Wong Jien Jieh\Downloads\SDM Assignment 1.07\SDM Assignment\SDM Assignment\bin\Debug\SDM Assignment.exe
+C:\Users\Wong Jien Jieh\Downloads\SDM Assignment 1.07\SDM Assignment\SDM Assignment\bin\Debug\SDM Assignment.pdb
+C:\Users\Wong Jien Jieh\Downloads\SDM Assignment 1.07\SDM Assignment\SDM Assignment\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Wong Jien Jieh\Downloads\SDM Assignment 1.07\SDM Assignment\SDM Assignment\bin\Debug\Google.Protobuf.dll
+C:\Users\Wong Jien Jieh\Downloads\SDM Assignment 1.07\SDM Assignment\SDM Assignment\bin\Debug\MaterialSkin.dll
+C:\Users\Wong Jien Jieh\Downloads\SDM Assignment 1.07\SDM Assignment\SDM Assignment\bin\Debug\MySql.Data.dll
+C:\Users\Wong Jien Jieh\Downloads\SDM Assignment 1.07\SDM Assignment\SDM Assignment\bin\Debug\Google.Protobuf.xml
+C:\Users\Wong Jien Jieh\Downloads\SDM Assignment 1.07\SDM Assignment\SDM Assignment\bin\Debug\MySql.Data.xml
+C:\Users\Wong Jien Jieh\Downloads\SDM Assignment 1.07\SDM Assignment\SDM Assignment\obj\Debug\SDM Assignment.csprojAssemblyReference.cache
+C:\Users\Wong Jien Jieh\Downloads\SDM Assignment 1.07\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.DoctorMainMenu.resources
+C:\Users\Wong Jien Jieh\Downloads\SDM Assignment 1.07\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.FrontCounterMainMenu.resources
+C:\Users\Wong Jien Jieh\Downloads\SDM Assignment 1.07\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.LoginForm.resources
+C:\Users\Wong Jien Jieh\Downloads\SDM Assignment 1.07\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.MachineAssignTechnicianForAdministrator.resources
+C:\Users\Wong Jien Jieh\Downloads\SDM Assignment 1.07\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.MachineUnassignTechnicianForAdministrator.resources
+C:\Users\Wong Jien Jieh\Downloads\SDM Assignment 1.07\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.NewAppointmentFormForDoctor.resources
+C:\Users\Wong Jien Jieh\Downloads\SDM Assignment 1.07\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.NewFollowUpMaintenanceForTechnician.resources
+C:\Users\Wong Jien Jieh\Downloads\SDM Assignment 1.07\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.NewMachineForAdministrator.resources
+C:\Users\Wong Jien Jieh\Downloads\SDM Assignment 1.07\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.NewMachineScheduleBlockForTechnician.resources
+C:\Users\Wong Jien Jieh\Downloads\SDM Assignment 1.07\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.NewMaintenanceForTechnician.resources
+C:\Users\Wong Jien Jieh\Downloads\SDM Assignment 1.07\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.NewPatientRecord.resources
+C:\Users\Wong Jien Jieh\Downloads\SDM Assignment 1.07\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.PaymentForFrontCounter.resources
+C:\Users\Wong Jien Jieh\Downloads\SDM Assignment 1.07\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ResetPassword.resources
+C:\Users\Wong Jien Jieh\Downloads\SDM Assignment 1.07\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.SecretQuestion.resources
+C:\Users\Wong Jien Jieh\Downloads\SDM Assignment 1.07\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.TechnicianMainMenu.resources
+C:\Users\Wong Jien Jieh\Downloads\SDM Assignment 1.07\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ViewAppointmentByTimeForTechnician.resources
+C:\Users\Wong Jien Jieh\Downloads\SDM Assignment 1.07\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ViewAppointmentDetailForTechnician.resources
+C:\Users\Wong Jien Jieh\Downloads\SDM Assignment 1.07\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ViewFollowUpMaintenanceForTechnician.resources
+C:\Users\Wong Jien Jieh\Downloads\SDM Assignment 1.07\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ViewMachineDetailForTechnician.resources
+C:\Users\Wong Jien Jieh\Downloads\SDM Assignment 1.07\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ViewMachineScheduleBlockForTechnician.resources
+C:\Users\Wong Jien Jieh\Downloads\SDM Assignment 1.07\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ViewPatientDetailForAdministrator.resources
+C:\Users\Wong Jien Jieh\Downloads\SDM Assignment 1.07\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.PatientDetail.resources
+C:\Users\Wong Jien Jieh\Downloads\SDM Assignment 1.07\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.SearchFollowUpByMachineId.resources
+C:\Users\Wong Jien Jieh\Downloads\SDM Assignment 1.07\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.SearchMachineForm.resources
+C:\Users\Wong Jien Jieh\Downloads\SDM Assignment 1.07\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.SearchPatientForm.resources
+C:\Users\Wong Jien Jieh\Downloads\SDM Assignment 1.07\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.fmcMainForm.resources
+C:\Users\Wong Jien Jieh\Downloads\SDM Assignment 1.07\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.NewAppointmentFormForFrontCounter.resources
+C:\Users\Wong Jien Jieh\Downloads\SDM Assignment 1.07\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.PatientRegisterForm.resources
+C:\Users\Wong Jien Jieh\Downloads\SDM Assignment 1.07\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.Properties.Resources.resources
+C:\Users\Wong Jien Jieh\Downloads\SDM Assignment 1.07\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ITManagerMainMenu.resources
+C:\Users\Wong Jien Jieh\Downloads\SDM Assignment 1.07\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.SearchDoctorForm.resources
+C:\Users\Wong Jien Jieh\Downloads\SDM Assignment 1.07\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.SearchTechnician.resources
+C:\Users\Wong Jien Jieh\Downloads\SDM Assignment 1.07\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ViewAppointmentByTimeForAdministrator.resources
+C:\Users\Wong Jien Jieh\Downloads\SDM Assignment 1.07\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ViewAppointmentByTimeForDoctor.resources
+C:\Users\Wong Jien Jieh\Downloads\SDM Assignment 1.07\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ViewAppointmentByTimeForFrontCounter.resources
+C:\Users\Wong Jien Jieh\Downloads\SDM Assignment 1.07\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ViewAppointmentDetaiForFrontCounter.resources
+C:\Users\Wong Jien Jieh\Downloads\SDM Assignment 1.07\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ViewAppointmentDetailForAdministrator.resources
+C:\Users\Wong Jien Jieh\Downloads\SDM Assignment 1.07\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ViewAppointmentDetailForDoctor.resources
+C:\Users\Wong Jien Jieh\Downloads\SDM Assignment 1.07\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ViewDigitalImageDetailForDoctor.resources
+C:\Users\Wong Jien Jieh\Downloads\SDM Assignment 1.07\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ViewFollowUpMaintenanceForAdministrator.resources
+C:\Users\Wong Jien Jieh\Downloads\SDM Assignment 1.07\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ViewMachineDetailForAdministrator.resources
+C:\Users\Wong Jien Jieh\Downloads\SDM Assignment 1.07\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ViewMachineTechnicianListForAdministrator.resources
+C:\Users\Wong Jien Jieh\Downloads\SDM Assignment 1.07\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ViewMaintenanceListForAdministator.resources
+C:\Users\Wong Jien Jieh\Downloads\SDM Assignment 1.07\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ViewMaintenanceListForTechnician.resources
+C:\Users\Wong Jien Jieh\Downloads\SDM Assignment 1.07\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ViewPatientRecordDetailForAdministrator.resources
+C:\Users\Wong Jien Jieh\Downloads\SDM Assignment 1.07\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ViewPatientRecordDetailForDoctor.resources
+C:\Users\Wong Jien Jieh\Downloads\SDM Assignment 1.07\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ViewPatientRecordDigitalImageForDoctor.resources
+C:\Users\Wong Jien Jieh\Downloads\SDM Assignment 1.07\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ViewPatientRecordForAdministrator.resources
+C:\Users\Wong Jien Jieh\Downloads\SDM Assignment 1.07\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ViewPatientRecordForDoctor.resources
+C:\Users\Wong Jien Jieh\Downloads\SDM Assignment 1.07\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ViewPatientRecordForFrontCounter.resources
+C:\Users\Wong Jien Jieh\Downloads\SDM Assignment 1.07\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ViewPatientRecordDetailForFrontCounter.resources
+C:\Users\Wong Jien Jieh\Downloads\SDM Assignment 1.07\SDM Assignment\SDM Assignment\obj\Debug\SDM Assignment.csproj.GenerateResource.cache
+C:\Users\Wong Jien Jieh\Downloads\SDM Assignment 1.07\SDM Assignment\SDM Assignment\obj\Debug\SDM Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Wong Jien Jieh\Downloads\SDM Assignment 1.07\SDM Assignment\SDM Assignment\obj\Debug\SDM Assignment.csproj.CopyComplete
+C:\Users\Wong Jien Jieh\Downloads\SDM Assignment 1.07\SDM Assignment\SDM Assignment\obj\Debug\SDM Assignment.exe
+C:\Users\Wong Jien Jieh\Downloads\SDM Assignment 1.07\SDM Assignment\SDM Assignment\obj\Debug\SDM Assignment.pdb
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.07\SDM Assignment\SDM Assignment\bin\Debug\SDM Assignment.exe.config
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.07\SDM Assignment\SDM Assignment\bin\Debug\SDM Assignment.exe
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.07\SDM Assignment\SDM Assignment\bin\Debug\SDM Assignment.pdb
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.07\SDM Assignment\SDM Assignment\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.07\SDM Assignment\SDM Assignment\bin\Debug\Google.Protobuf.dll
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.07\SDM Assignment\SDM Assignment\bin\Debug\MaterialSkin.dll
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.07\SDM Assignment\SDM Assignment\bin\Debug\MySql.Data.dll
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.07\SDM Assignment\SDM Assignment\bin\Debug\Google.Protobuf.xml
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.07\SDM Assignment\SDM Assignment\bin\Debug\MySql.Data.xml
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.07\SDM Assignment\SDM Assignment\obj\Debug\SDM Assignment.csprojAssemblyReference.cache
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.07\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.DoctorMainMenu.resources
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.07\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.FrontCounterMainMenu.resources
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.07\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.LoginForm.resources
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.07\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.MachineAssignTechnicianForAdministrator.resources
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.07\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.MachineUnassignTechnicianForAdministrator.resources
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.07\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.NewAppointmentFormForDoctor.resources
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.07\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.NewFollowUpMaintenanceForTechnician.resources
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.07\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.NewMachineForAdministrator.resources
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.07\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.NewMachineScheduleBlockForTechnician.resources
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.07\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.NewMaintenanceForTechnician.resources
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.07\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.NewPatientRecord.resources
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.07\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.PaymentForFrontCounter.resources
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.07\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ResetPassword.resources
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.07\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.SecretQuestion.resources
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.07\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.TechnicianMainMenu.resources
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.07\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ViewAppointmentByTimeForTechnician.resources
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.07\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ViewAppointmentDetailForTechnician.resources
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.07\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ViewFollowUpMaintenanceForTechnician.resources
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.07\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ViewMachineDetailForTechnician.resources
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.07\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ViewMachineScheduleBlockForTechnician.resources
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.07\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ViewPatientDetailForAdministrator.resources
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.07\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.PatientDetail.resources
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.07\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.SearchFollowUpByMachineId.resources
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.07\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.SearchMachineForm.resources
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.07\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.SearchPatientForm.resources
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.07\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.fmcMainForm.resources
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.07\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.NewAppointmentFormForFrontCounter.resources
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.07\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.PatientRegisterForm.resources
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.07\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.Properties.Resources.resources
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.07\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ITManagerMainMenu.resources
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.07\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.SearchDoctorForm.resources
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.07\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.SearchTechnician.resources
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.07\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ViewAppointmentByTimeForAdministrator.resources
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.07\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ViewAppointmentByTimeForDoctor.resources
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.07\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ViewAppointmentByTimeForFrontCounter.resources
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.07\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ViewAppointmentDetaiForFrontCounter.resources
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.07\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ViewAppointmentDetailForAdministrator.resources
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.07\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ViewAppointmentDetailForDoctor.resources
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.07\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ViewDigitalImageDetailForDoctor.resources
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.07\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ViewFollowUpMaintenanceForAdministrator.resources
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.07\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ViewMachineDetailForAdministrator.resources
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.07\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ViewMachineTechnicianListForAdministrator.resources
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.07\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ViewMaintenanceListForAdministator.resources
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.07\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ViewMaintenanceListForTechnician.resources
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.07\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ViewPatientRecordDetailForAdministrator.resources
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.07\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ViewPatientRecordDetailForDoctor.resources
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.07\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ViewPatientRecordDigitalImageForDoctor.resources
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.07\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ViewPatientRecordForAdministrator.resources
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.07\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ViewPatientRecordForDoctor.resources
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.07\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ViewPatientRecordForFrontCounter.resources
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.07\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ViewPatientRecordDetailForFrontCounter.resources
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.07\SDM Assignment\SDM Assignment\obj\Debug\SDM Assignment.csproj.GenerateResource.cache
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.07\SDM Assignment\SDM Assignment\obj\Debug\SDM Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.07\SDM Assignment\SDM Assignment\obj\Debug\SDM Assignment.csproj.CopyComplete
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.07\SDM Assignment\SDM Assignment\obj\Debug\SDM Assignment.exe
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.07\SDM Assignment\SDM Assignment\obj\Debug\SDM Assignment.pdb
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.08\SDM Assignment\SDM Assignment\bin\Debug\SDM Assignment.exe.config
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.08\SDM Assignment\SDM Assignment\bin\Debug\SDM Assignment.exe
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.08\SDM Assignment\SDM Assignment\bin\Debug\SDM Assignment.pdb
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.08\SDM Assignment\SDM Assignment\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.08\SDM Assignment\SDM Assignment\bin\Debug\Google.Protobuf.dll
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.08\SDM Assignment\SDM Assignment\bin\Debug\MaterialSkin.dll
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.08\SDM Assignment\SDM Assignment\bin\Debug\MySql.Data.dll
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.08\SDM Assignment\SDM Assignment\bin\Debug\Google.Protobuf.xml
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.08\SDM Assignment\SDM Assignment\bin\Debug\MySql.Data.xml
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.08\SDM Assignment\SDM Assignment\obj\Debug\SDM Assignment.csprojAssemblyReference.cache
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.08\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.DoctorMainMenu.resources
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.08\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.FrontCounterMainMenu.resources
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.08\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.LoginForm.resources
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.08\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.MachineAssignTechnicianForAdministrator.resources
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.08\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.MachineUnassignTechnicianForAdministrator.resources
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.08\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.NewAppointmentFormForDoctor.resources
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.08\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.NewFollowUpMaintenanceForTechnician.resources
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.08\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.NewMachineForAdministrator.resources
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.08\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.NewMachineScheduleBlockForTechnician.resources
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.08\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.NewMaintenanceForTechnician.resources
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.08\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.NewPatientRecord.resources
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.08\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.PaymentForFrontCounter.resources
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.08\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ResetPassword.resources
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.08\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.SecretQuestion.resources
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.08\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.TechnicianMainMenu.resources
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.08\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ViewAppointmentByTimeForTechnician.resources
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.08\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ViewAppointmentDetailForTechnician.resources
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.08\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ViewFollowUpMaintenanceForTechnician.resources
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.08\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ViewMachineDetailForTechnician.resources
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.08\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ViewMachineScheduleBlockForTechnician.resources
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.08\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ViewPatientDetailForAdministrator.resources
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.08\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.PatientDetail.resources
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.08\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.SearchFollowUpByMachineId.resources
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.08\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.SearchMachineForm.resources
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.08\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.SearchPatientForm.resources
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.08\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.fmcMainForm.resources
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.08\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.NewAppointmentFormForFrontCounter.resources
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.08\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.PatientRegisterForm.resources
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.08\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.Properties.Resources.resources
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.08\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ITManagerMainMenu.resources
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.08\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.SearchDoctorForm.resources
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.08\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.SearchTechnician.resources
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.08\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ViewAppointmentByTimeForAdministrator.resources
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.08\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ViewAppointmentByTimeForDoctor.resources
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.08\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ViewAppointmentByTimeForFrontCounter.resources
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.08\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ViewAppointmentDetaiForFrontCounter.resources
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.08\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ViewAppointmentDetailForAdministrator.resources
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.08\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ViewAppointmentDetailForDoctor.resources
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.08\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ViewDigitalImageDetailForDoctor.resources
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.08\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ViewFollowUpMaintenanceForAdministrator.resources
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.08\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ViewMachineDetailForAdministrator.resources
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.08\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ViewMachineTechnicianListForAdministrator.resources
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.08\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ViewMaintenanceListForAdministator.resources
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.08\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ViewMaintenanceListForTechnician.resources
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.08\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ViewPatientRecordDetailForAdministrator.resources
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.08\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ViewPatientRecordDetailForDoctor.resources
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.08\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ViewPatientRecordDigitalImageForDoctor.resources
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.08\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ViewPatientRecordForAdministrator.resources
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.08\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ViewPatientRecordForDoctor.resources
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.08\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ViewPatientRecordForFrontCounter.resources
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.08\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ViewPatientRecordDetailForFrontCounter.resources
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.08\SDM Assignment\SDM Assignment\obj\Debug\SDM Assignment.csproj.GenerateResource.cache
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.08\SDM Assignment\SDM Assignment\obj\Debug\SDM Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.08\SDM Assignment\SDM Assignment\obj\Debug\SDM Assignment.csproj.CopyComplete
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.08\SDM Assignment\SDM Assignment\obj\Debug\SDM Assignment.exe
+C:\Users\Wong Jien Jieh\Desktop\SDM Assignment 1.08\SDM Assignment\SDM Assignment\obj\Debug\SDM Assignment.pdb
+C:\Users\User\Desktop\SDM Assignment\SDM Assignment\bin\Debug\SDM Assignment.exe.config
+C:\Users\User\Desktop\SDM Assignment\SDM Assignment\bin\Debug\SDM Assignment.exe
+C:\Users\User\Desktop\SDM Assignment\SDM Assignment\bin\Debug\SDM Assignment.pdb
+C:\Users\User\Desktop\SDM Assignment\SDM Assignment\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\User\Desktop\SDM Assignment\SDM Assignment\bin\Debug\Google.Protobuf.dll
+C:\Users\User\Desktop\SDM Assignment\SDM Assignment\bin\Debug\MaterialSkin.dll
+C:\Users\User\Desktop\SDM Assignment\SDM Assignment\bin\Debug\MySql.Data.dll
+C:\Users\User\Desktop\SDM Assignment\SDM Assignment\bin\Debug\Google.Protobuf.xml
+C:\Users\User\Desktop\SDM Assignment\SDM Assignment\bin\Debug\MySql.Data.xml
+C:\Users\User\Desktop\SDM Assignment\SDM Assignment\obj\Debug\SDM Assignment.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.DoctorMainMenu.resources
+C:\Users\User\Desktop\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.FrontCounterMainMenu.resources
+C:\Users\User\Desktop\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.LoginForm.resources
+C:\Users\User\Desktop\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.MachineAssignTechnicianForAdministrator.resources
+C:\Users\User\Desktop\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.MachineUnassignTechnicianForAdministrator.resources
+C:\Users\User\Desktop\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.NewAppointmentFormForDoctor.resources
+C:\Users\User\Desktop\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.NewFollowUpMaintenanceForTechnician.resources
+C:\Users\User\Desktop\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.NewMachineForAdministrator.resources
+C:\Users\User\Desktop\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.NewMachineScheduleBlockForTechnician.resources
+C:\Users\User\Desktop\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.NewMaintenanceForTechnician.resources
+C:\Users\User\Desktop\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.NewPatientRecord.resources
+C:\Users\User\Desktop\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.PaymentForFrontCounter.resources
+C:\Users\User\Desktop\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ResetPassword.resources
+C:\Users\User\Desktop\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.SecretQuestion.resources
+C:\Users\User\Desktop\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.TechnicianMainMenu.resources
+C:\Users\User\Desktop\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ViewAppointmentByTimeForTechnician.resources
+C:\Users\User\Desktop\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ViewAppointmentDetailForTechnician.resources
+C:\Users\User\Desktop\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ViewFollowUpMaintenanceForTechnician.resources
+C:\Users\User\Desktop\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ViewMachineDetailForTechnician.resources
+C:\Users\User\Desktop\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ViewMachineScheduleBlockForTechnician.resources
+C:\Users\User\Desktop\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ViewPatientDetailForAdministrator.resources
+C:\Users\User\Desktop\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.PatientDetail.resources
+C:\Users\User\Desktop\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.SearchFollowUpByMachineId.resources
+C:\Users\User\Desktop\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.SearchMachineForm.resources
+C:\Users\User\Desktop\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.SearchPatientForm.resources
+C:\Users\User\Desktop\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.fmcMainForm.resources
+C:\Users\User\Desktop\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.NewAppointmentFormForFrontCounter.resources
+C:\Users\User\Desktop\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.PatientRegisterForm.resources
+C:\Users\User\Desktop\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.Properties.Resources.resources
+C:\Users\User\Desktop\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ITManagerMainMenu.resources
+C:\Users\User\Desktop\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.SearchDoctorForm.resources
+C:\Users\User\Desktop\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.SearchTechnician.resources
+C:\Users\User\Desktop\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ViewAppointmentByTimeForAdministrator.resources
+C:\Users\User\Desktop\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ViewAppointmentByTimeForDoctor.resources
+C:\Users\User\Desktop\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ViewAppointmentByTimeForFrontCounter.resources
+C:\Users\User\Desktop\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ViewAppointmentDetaiForFrontCounter.resources
+C:\Users\User\Desktop\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ViewAppointmentDetailForAdministrator.resources
+C:\Users\User\Desktop\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ViewAppointmentDetailForDoctor.resources
+C:\Users\User\Desktop\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ViewDigitalImageDetailForDoctor.resources
+C:\Users\User\Desktop\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ViewFollowUpMaintenanceForAdministrator.resources
+C:\Users\User\Desktop\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ViewMachineDetailForAdministrator.resources
+C:\Users\User\Desktop\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ViewMachineTechnicianListForAdministrator.resources
+C:\Users\User\Desktop\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ViewMaintenanceListForAdministator.resources
+C:\Users\User\Desktop\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ViewMaintenanceListForTechnician.resources
+C:\Users\User\Desktop\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ViewPatientRecordDetailForAdministrator.resources
+C:\Users\User\Desktop\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ViewPatientRecordDetailForDoctor.resources
+C:\Users\User\Desktop\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ViewPatientRecordDigitalImageForDoctor.resources
+C:\Users\User\Desktop\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ViewPatientRecordForAdministrator.resources
+C:\Users\User\Desktop\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ViewPatientRecordForDoctor.resources
+C:\Users\User\Desktop\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ViewPatientRecordForFrontCounter.resources
+C:\Users\User\Desktop\SDM Assignment\SDM Assignment\obj\Debug\SDM_Assignment.ViewPatientRecordDetailForFrontCounter.resources
+C:\Users\User\Desktop\SDM Assignment\SDM Assignment\obj\Debug\SDM Assignment.csproj.GenerateResource.cache
+C:\Users\User\Desktop\SDM Assignment\SDM Assignment\obj\Debug\SDM Assignment.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SDM Assignment\SDM Assignment\obj\Debug\SDM Assignment.csproj.CopyComplete
+C:\Users\User\Desktop\SDM Assignment\SDM Assignment\obj\Debug\SDM Assignment.exe
+C:\Users\User\Desktop\SDM Assignment\SDM Assignment\obj\Debug\SDM Assignment.pdb

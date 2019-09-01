@@ -1,0 +1,548 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{75E34931-6A5E-4636-8D06-211E8FCAB9DF}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>SDM_Assignment</RootNamespace>
+    <AssemblyName>SDM Assignment</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <UseVSHostingProcess>true</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BouncyCastle.Crypto, Version=1.8.3.0, Culture=neutral, PublicKeyToken=0e99375e54769942">
+      <HintPath>..\packages\BouncyCastle.1.8.3.1\lib\BouncyCastle.Crypto.dll</HintPath>
+    </Reference>
+    <Reference Include="Google.Protobuf, Version=3.6.1.0, Culture=neutral, PublicKeyToken=a7d26565bac4d604, processorArchitecture=MSIL">
+      <HintPath>..\packages\Google.Protobuf.3.6.1\lib\net45\Google.Protobuf.dll</HintPath>
+    </Reference>
+    <Reference Include="MaterialSkin, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\MaterialSkin.Updated.0.2.2\lib\MaterialSkin.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data, Version=8.0.16.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <HintPath>..\packages\MySql.Data.8.0.16\lib\net452\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Configuration.Install" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing.Design" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AccountClass.cs" />
+    <Compile Include="DoctorMainMenu.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="DoctorMainMenu.Designer.cs">
+      <DependentUpon>DoctorMainMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrontCounterMainMenu.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="FrontCounterMainMenu.Designer.cs">
+      <DependentUpon>FrontCounterMainMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MachineAssignTechnicianForAdministrator.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="MachineAssignTechnicianForAdministrator.Designer.cs">
+      <DependentUpon>MachineAssignTechnicianForAdministrator.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MachineUnassignTechnicianForAdministrator.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="MachineUnassignTechnicianForAdministrator.Designer.cs">
+      <DependentUpon>MachineUnassignTechnicianForAdministrator.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NewAppointmentFormForDoctor.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="NewAppointmentFormForDoctor.Designer.cs">
+      <DependentUpon>NewAppointmentFormForDoctor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NewFollowUpMaintenanceForTechnician.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="NewFollowUpMaintenanceForTechnician.Designer.cs">
+      <DependentUpon>NewFollowUpMaintenanceForTechnician.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NewMachineForAdministrator.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="NewMachineForAdministrator.Designer.cs">
+      <DependentUpon>NewMachineForAdministrator.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NewMachineScheduleBlockForTechnician.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="NewMachineScheduleBlockForTechnician.Designer.cs">
+      <DependentUpon>NewMachineScheduleBlockForTechnician.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NewMaintenanceForTechnician.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="NewMaintenanceForTechnician.Designer.cs">
+      <DependentUpon>NewMaintenanceForTechnician.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NewPatientRecord.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="NewPatientRecord.Designer.cs">
+      <DependentUpon>NewPatientRecord.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PaymentForFrontCounter.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PaymentForFrontCounter.Designer.cs">
+      <DependentUpon>PaymentForFrontCounter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ResetPassword.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ResetPassword.Designer.cs">
+      <DependentUpon>ResetPassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SecretQuestion.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="SecretQuestion.Designer.cs">
+      <DependentUpon>SecretQuestion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TechnicianMainMenu.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="TechnicianMainMenu.Designer.cs">
+      <DependentUpon>TechnicianMainMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UnitTest.cs" />
+    <Compile Include="ViewAppointmentByTimeForTechnician.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ViewAppointmentByTimeForTechnician.Designer.cs">
+      <DependentUpon>ViewAppointmentByTimeForTechnician.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewAppointmentDetailForTechnician.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ViewAppointmentDetailForTechnician.Designer.cs">
+      <DependentUpon>ViewAppointmentDetailForTechnician.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewFollowUpMaintenanceForTechnician.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ViewFollowUpMaintenanceForTechnician.Designer.cs">
+      <DependentUpon>ViewFollowUpMaintenanceForTechnician.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewMachineDetailForTechnician.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ViewMachineDetailForTechnician.Designer.cs">
+      <DependentUpon>ViewMachineDetailForTechnician.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewMachineScheduleBlockForTechnician.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ViewMachineScheduleBlockForTechnician.Designer.cs">
+      <DependentUpon>ViewMachineScheduleBlockForTechnician.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewPatientDetailForAdministrator.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ViewPatientDetailForAdministrator.Designer.cs">
+      <DependentUpon>ViewPatientDetailForAdministrator.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewPatientDetailForDoctor.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ViewPatientDetailForDoctor.Designer.cs">
+      <DependentUpon>ViewPatientDetailForDoctor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SearchFollowUpByMachineId.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="SearchFollowUpByMachineId.Designer.cs">
+      <DependentUpon>SearchFollowUpByMachineId.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SearchMachineForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="SearchMachineForm.Designer.cs">
+      <DependentUpon>SearchMachineForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SearchPatientForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="SearchPatientForm.Designer.cs">
+      <DependentUpon>SearchPatientForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoginForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="LoginForm.Designer.cs">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="md5.cs" />
+    <Compile Include="NewAppointmentFormForFrontCounter.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="NewAppointmentFormForFrontCounter.Designer.cs">
+      <DependentUpon>NewAppointmentFormForFrontCounter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PatientRegisterForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PatientRegisterForm.Designer.cs">
+      <DependentUpon>PatientRegisterForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ITManagerMainMenu.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ITManagerMainMenu.Designer.cs">
+      <DependentUpon>ITManagerMainMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SearchDoctorForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="SearchDoctorForm.Designer.cs">
+      <DependentUpon>SearchDoctorForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SearchTechnician.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="SearchTechnician.Designer.cs">
+      <DependentUpon>SearchTechnician.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewAppointmentByTimeForAdministrator.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ViewAppointmentByTimeForAdministrator.Designer.cs">
+      <DependentUpon>ViewAppointmentByTimeForAdministrator.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewAppointmentByTimeForDoctor.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ViewAppointmentByTimeForDoctor.Designer.cs">
+      <DependentUpon>ViewAppointmentByTimeForDoctor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewAppointmentByTimeForFrontCounter.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ViewAppointmentByTimeForFrontCounter.Designer.cs">
+      <DependentUpon>ViewAppointmentByTimeForFrontCounter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewAppointmentDetaiForFrontCounter.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ViewAppointmentDetaiForFrontCounter.Designer.cs">
+      <DependentUpon>ViewAppointmentDetaiForFrontCounter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewAppointmentDetailForAdministrator.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ViewAppointmentDetailForAdministrator.Designer.cs">
+      <DependentUpon>ViewAppointmentDetailForAdministrator.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewAppointmentDetailForDoctor.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ViewAppointmentDetailForDoctor.Designer.cs">
+      <DependentUpon>ViewAppointmentDetailForDoctor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewDigitalImageDetailForDoctor.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ViewDigitalImageDetailForDoctor.Designer.cs">
+      <DependentUpon>ViewDigitalImageDetailForDoctor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewFollowUpMaintenanceForAdministrator.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ViewFollowUpMaintenanceForAdministrator.Designer.cs">
+      <DependentUpon>ViewFollowUpMaintenanceForAdministrator.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewMachineDetailForAdministrator.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ViewMachineDetailForAdministrator.Designer.cs">
+      <DependentUpon>ViewMachineDetailForAdministrator.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewMachineTechnicianListForAdministrator.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ViewMachineTechnicianListForAdministrator.Designer.cs">
+      <DependentUpon>ViewMachineTechnicianListForAdministrator.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewMaintenanceListForAdministator.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ViewMaintenanceListForAdministator.Designer.cs">
+      <DependentUpon>ViewMaintenanceListForAdministator.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewMaintenanceListForTechnician.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ViewMaintenanceListForTechnician.Designer.cs">
+      <DependentUpon>ViewMaintenanceListForTechnician.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewPatientRecordDetailForAdministrator.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ViewPatientRecordDetailForAdministrator.Designer.cs">
+      <DependentUpon>ViewPatientRecordDetailForAdministrator.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewPatientRecordDetailForDoctor.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ViewPatientRecordDetailForDoctor.Designer.cs">
+      <DependentUpon>ViewPatientRecordDetailForDoctor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewPatientRecordDigitalImageForDoctor.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ViewPatientRecordDigitalImageForDoctor.Designer.cs">
+      <DependentUpon>ViewPatientRecordDigitalImageForDoctor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewPatientRecordForAdministrator.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ViewPatientRecordForAdministrator.Designer.cs">
+      <DependentUpon>ViewPatientRecordForAdministrator.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewPatientRecordForDoctor.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ViewPatientRecordForDoctor.Designer.cs">
+      <DependentUpon>ViewPatientRecordForDoctor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewPatientRecordForFrontCounter.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ViewPatientRecordForFrontCounter.Designer.cs">
+      <DependentUpon>ViewPatientRecordForFrontCounter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewPatientRecordDetailForFrontCounter.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ViewPatientRecordDetailForFrontCounter.Designer.cs">
+      <DependentUpon>ViewPatientRecordDetailForFrontCounter.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="DoctorMainMenu.resx">
+      <DependentUpon>DoctorMainMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrontCounterMainMenu.resx">
+      <DependentUpon>FrontCounterMainMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginForm.resx">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MachineAssignTechnicianForAdministrator.resx">
+      <DependentUpon>MachineAssignTechnicianForAdministrator.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MachineUnassignTechnicianForAdministrator.resx">
+      <DependentUpon>MachineUnassignTechnicianForAdministrator.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NewAppointmentFormForDoctor.resx">
+      <DependentUpon>NewAppointmentFormForDoctor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NewFollowUpMaintenanceForTechnician.resx">
+      <DependentUpon>NewFollowUpMaintenanceForTechnician.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NewMachineForAdministrator.resx">
+      <DependentUpon>NewMachineForAdministrator.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NewMachineScheduleBlockForTechnician.resx">
+      <DependentUpon>NewMachineScheduleBlockForTechnician.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NewMaintenanceForTechnician.resx">
+      <DependentUpon>NewMaintenanceForTechnician.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NewPatientRecord.resx">
+      <DependentUpon>NewPatientRecord.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PaymentForFrontCounter.resx">
+      <DependentUpon>PaymentForFrontCounter.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ResetPassword.resx">
+      <DependentUpon>ResetPassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SecretQuestion.resx">
+      <DependentUpon>SecretQuestion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TechnicianMainMenu.resx">
+      <DependentUpon>TechnicianMainMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewAppointmentByTimeForTechnician.resx">
+      <DependentUpon>ViewAppointmentByTimeForTechnician.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewAppointmentDetailForTechnician.resx">
+      <DependentUpon>ViewAppointmentDetailForTechnician.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewFollowUpMaintenanceForTechnician.resx">
+      <DependentUpon>ViewFollowUpMaintenanceForTechnician.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewMachineDetailForTechnician.resx">
+      <DependentUpon>ViewMachineDetailForTechnician.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewMachineScheduleBlockForTechnician.resx">
+      <DependentUpon>ViewMachineScheduleBlockForTechnician.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewPatientDetailForAdministrator.resx">
+      <DependentUpon>ViewPatientDetailForAdministrator.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewPatientDetailForDoctor.resx">
+      <DependentUpon>ViewPatientDetailForDoctor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SearchFollowUpByMachineId.resx">
+      <DependentUpon>SearchFollowUpByMachineId.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SearchMachineForm.resx">
+      <DependentUpon>SearchMachineForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SearchPatientForm.resx">
+      <DependentUpon>SearchPatientForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NewAppointmentFormForFrontCounter.resx">
+      <DependentUpon>NewAppointmentFormForFrontCounter.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PatientRegisterForm.resx">
+      <DependentUpon>PatientRegisterForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="ITManagerMainMenu.resx">
+      <DependentUpon>ITManagerMainMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SearchDoctorForm.resx">
+      <DependentUpon>SearchDoctorForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SearchTechnician.resx">
+      <DependentUpon>SearchTechnician.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewAppointmentByTimeForAdministrator.resx">
+      <DependentUpon>ViewAppointmentByTimeForAdministrator.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewAppointmentByTimeForDoctor.resx">
+      <DependentUpon>ViewAppointmentByTimeForDoctor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewAppointmentByTimeForFrontCounter.resx">
+      <DependentUpon>ViewAppointmentByTimeForFrontCounter.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewAppointmentDetaiForFrontCounter.resx">
+      <DependentUpon>ViewAppointmentDetaiForFrontCounter.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewAppointmentDetailForAdministrator.resx">
+      <DependentUpon>ViewAppointmentDetailForAdministrator.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewAppointmentDetailForDoctor.resx">
+      <DependentUpon>ViewAppointmentDetailForDoctor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewDigitalImageDetailForDoctor.resx">
+      <DependentUpon>ViewDigitalImageDetailForDoctor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewFollowUpMaintenanceForAdministrator.resx">
+      <DependentUpon>ViewFollowUpMaintenanceForAdministrator.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewMachineDetailForAdministrator.resx">
+      <DependentUpon>ViewMachineDetailForAdministrator.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewMachineTechnicianListForAdministrator.resx">
+      <DependentUpon>ViewMachineTechnicianListForAdministrator.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewMaintenanceListForAdministator.resx">
+      <DependentUpon>ViewMaintenanceListForAdministator.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewMaintenanceListForTechnician.resx">
+      <DependentUpon>ViewMaintenanceListForTechnician.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewPatientRecordDetailForAdministrator.resx">
+      <DependentUpon>ViewPatientRecordDetailForAdministrator.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewPatientRecordDetailForDoctor.resx">
+      <DependentUpon>ViewPatientRecordDetailForDoctor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewPatientRecordDigitalImageForDoctor.resx">
+      <DependentUpon>ViewPatientRecordDigitalImageForDoctor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewPatientRecordForAdministrator.resx">
+      <DependentUpon>ViewPatientRecordForAdministrator.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewPatientRecordForDoctor.resx">
+      <DependentUpon>ViewPatientRecordForDoctor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewPatientRecordForFrontCounter.resx">
+      <DependentUpon>ViewPatientRecordForFrontCounter.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewPatientRecordDetailForFrontCounter.resx">
+      <DependentUpon>ViewPatientRecordDetailForFrontCounter.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
